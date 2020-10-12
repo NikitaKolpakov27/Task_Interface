@@ -1,0 +1,5 @@
+C:\Users\HP\RiderProjects\Task_Interface\Task_Interface\bin\Debug\Task_Interface.exe
+C:\Users\HP\RiderProjects\Task_Interface\Task_Interface\bin\Debug\Task_Interface.pdb
+C:\Users\HP\RiderProjects\Task_Interface\Task_Interface\obj\Debug\Task_Interface.csprojAssemblyReference.cache
+C:\Users\HP\RiderProjects\Task_Interface\Task_Interface\obj\Debug\Task_Interface.exe
+C:\Users\HP\RiderProjects\Task_Interface\Task_Interface\obj\Debug\Task_Interface.pdb
